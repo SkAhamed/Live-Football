@@ -1,0 +1,26 @@
+.header-area {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    border-radius: 30px;
+}
+
+.header-text {
+    color: white;
+}
+
+.Home-Button,
+.fa-solid {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(0, 102, 255), tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+
+}
+
+.header-img {
+    background-image: url(images/Circle\ design.svg);
+}
