@@ -154,6 +154,7 @@ body {
 /* footer area start  */
 .footer-area {
     background-color: #000000;
+    padding-bottom: 80px;
 }
 
 .footer-area:hover {
@@ -185,3 +186,5 @@ body {
     color: #ffffff;
     padding-left: 30px;
 }
+
+/* footer area ends  */
